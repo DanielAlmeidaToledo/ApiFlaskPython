@@ -2,8 +2,8 @@
 
 API criada utilizando Flask, que é um micro web framework do Python.
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" />
+<p align="left">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*0G5zu7CnXdMT9pGbYUTQLQ.png" />
 </p>
 
 ## ⚙️ Linguagens e Ferramentas utilizadas:
