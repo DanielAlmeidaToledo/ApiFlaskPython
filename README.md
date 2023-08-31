@@ -10,3 +10,5 @@ API criada utilizando Flask, que é um micro web framework do Python.
 
 - Flask
 - Python
+- Docker
+- MySQL
